@@ -1,0 +1,14 @@
+D:\GKC-\GKC-\GKC-\bin\Debug\GKC-.exe.config
+D:\GKC-\GKC-\GKC-\bin\Debug\GKC-.exe
+D:\GKC-\GKC-\GKC-\bin\Debug\GKC-.pdb
+D:\GKC-\GKC-\GKC-\obj\Debug\GKC-.csprojResolveAssemblyReference.cache
+D:\GKC-\GKC-\GKC-\obj\Debug\MainWindow.g.cs
+D:\GKC-\GKC-\GKC-\obj\Debug\App.g.cs
+D:\GKC-\GKC-\GKC-\obj\Debug\GKC-_MarkupCompile.cache
+D:\GKC-\GKC-\GKC-\obj\Debug\GKC-_MarkupCompile.lref
+D:\GKC-\GKC-\GKC-\obj\Debug\MainWindow.baml
+D:\GKC-\GKC-\GKC-\obj\Debug\GKC-.g.resources
+D:\GKC-\GKC-\GKC-\obj\Debug\GKC_.Properties.Resources.resources
+D:\GKC-\GKC-\GKC-\obj\Debug\GKC-.csproj.GenerateResource.Cache
+D:\GKC-\GKC-\GKC-\obj\Debug\GKC-.exe
+D:\GKC-\GKC-\GKC-\obj\Debug\GKC-.pdb
