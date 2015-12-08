@@ -12,3 +12,17 @@ D:\GKC-\GKC-\GKC-\obj\Debug\GKC_.Properties.Resources.resources
 D:\GKC-\GKC-\GKC-\obj\Debug\GKC-.csproj.GenerateResource.Cache
 D:\GKC-\GKC-\GKC-\obj\Debug\GKC-.exe
 D:\GKC-\GKC-\GKC-\obj\Debug\GKC-.pdb
+C:\Users\Piotr\Desktop\GKCsharp\GKC-\GKC-\bin\Debug\GKC-.exe.config
+C:\Users\Piotr\Desktop\GKCsharp\GKC-\GKC-\bin\Debug\GKC-.exe
+C:\Users\Piotr\Desktop\GKCsharp\GKC-\GKC-\bin\Debug\GKC-.pdb
+C:\Users\Piotr\Desktop\GKCsharp\GKC-\GKC-\obj\Debug\GKC-.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\GKCsharp\GKC-\GKC-\obj\Debug\MainWindow.g.cs
+C:\Users\Piotr\Desktop\GKCsharp\GKC-\GKC-\obj\Debug\App.g.cs
+C:\Users\Piotr\Desktop\GKCsharp\GKC-\GKC-\obj\Debug\GKC-_MarkupCompile.cache
+C:\Users\Piotr\Desktop\GKCsharp\GKC-\GKC-\obj\Debug\GKC-_MarkupCompile.lref
+C:\Users\Piotr\Desktop\GKCsharp\GKC-\GKC-\obj\Debug\MainWindow.baml
+C:\Users\Piotr\Desktop\GKCsharp\GKC-\GKC-\obj\Debug\GKC-.g.resources
+C:\Users\Piotr\Desktop\GKCsharp\GKC-\GKC-\obj\Debug\GKC_.Properties.Resources.resources
+C:\Users\Piotr\Desktop\GKCsharp\GKC-\GKC-\obj\Debug\GKC-.csproj.GenerateResource.Cache
+C:\Users\Piotr\Desktop\GKCsharp\GKC-\GKC-\obj\Debug\GKC-.exe
+C:\Users\Piotr\Desktop\GKCsharp\GKC-\GKC-\obj\Debug\GKC-.pdb

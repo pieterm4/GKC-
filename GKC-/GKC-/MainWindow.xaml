@@ -5,8 +5,61 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:GKC_"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="Grafika Komputerowa" Height="500" Width="800" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize">
     <Grid>
-        
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="50" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="250" />
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" x:Name="TitleTextBlock" Text="Grafika Komputerowa" Margin="20,10,0,0" FontSize="30" FontFamily="Segoe UI Semilight" />
+            <Image Grid.RowSpan="2" Grid.Row="1" Grid.Column="0" x:Name="ImageBox"  Margin="5" />
+            <GroupBox Grid.Column="1" Grid.Row="1" Header="Informacje o pliku" Margin="0,5,5,5" Padding="5,10,0,10">
+                
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    
+                    <TextBlock Grid.Column="0" Grid.Row="0" Text="Nazwa pliku: " />
+                    <TextBlock x:Name="NazwaPlikuTextBlock" Grid.Column="1" Grid.Row="0" HorizontalAlignment="Left" />
+
+                    <TextBlock Grid.Column="0" Grid.Row="1" Text="Rozmiar pliku: " />
+                    <TextBlock x:Name="RozmiarTextBlock" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Left" />
+
+                    <TextBlock Grid.Column="0" Grid.Row="2" Text="Wysokość:  " />
+                    <TextBlock x:Name="WysokoscTextBlock" Grid.Column="1" Grid.Row="2" HorizontalAlignment="Left" />
+
+                    <TextBlock Grid.Column="0" Grid.Row="3" Text="Szerokość: " />
+                    <TextBlock x:Name="SzerokoscTextBlock" Grid.Column="1" Grid.Row="3" HorizontalAlignment="Left" />
+
+                    
+
+
+                </Grid>
+                
+                
+            </GroupBox>
+            <Button Grid.Column="1" Grid.Row="2" x:Name="ZaladujButton" Content="Załaduj" HorizontalContentAlignment="Center" Width="150" Height="50" Click="ZaladujButton_Click" />
+            <Button Grid.Column="1" Grid.Row="2" x:Name="SkalaSzarosciButton" Content="Skala szarości" HorizontalContentAlignment="Center" Width="150" Height="50" Margin="0 150 0 0" Click="SkalaSzarosciButton_Click" />
+            <Button Grid.Column="1" Grid.Row="2" x:Name="Kanal" Content="Channel" HorizontalContentAlignment="Center" Width="150" Height="50" Margin="0 300 0 0" Click="Kanal_Click" />
+
+        </Grid>
+
     </Grid>
 </Window>
